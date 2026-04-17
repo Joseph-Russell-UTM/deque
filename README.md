@@ -1,8 +1,8 @@
 @file README.md 
 @author Joseph Russell, Zachery Pickell 
-@date 2026-03-30 
-@brief This program creates a game library.
+@date 2026-04-17 
+@brief This program creates a deque.
 
-@The code creates a deque and shpws the user it's automatrd tests.
+@The program creates a deque and shows the user it's automated tests.
 
 To compile the code just type make and to run it ./main.
