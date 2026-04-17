@@ -4,7 +4,7 @@ default: main
 
 main: main.o
 	$(CC) $(CFLAGS) -o main main.o
-main.o: main.cpp
+main.o: main.cpp deque.h
 	$(CC) $(CFLAGS) -c main.cpp
 
 clean:
